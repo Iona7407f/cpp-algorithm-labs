@@ -11,8 +11,6 @@ Three standalone C++20 programs:
 Requires CMake 4.2+ and a C++20 compiler.
 
 ```sh
-cmake -S . -B build
 cmake --build build
 ```
-
 Run the executable for the program you want to try.
